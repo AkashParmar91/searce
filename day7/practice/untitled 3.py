@@ -6,4 +6,4 @@ class Solution:
             return True
         else:
             return False
-        #link: https://leetcode.com/problems/palindrome-number/
+        #link: https://leetcode.com/problems/palindrome-number/jhdsjhdsbjfhbj

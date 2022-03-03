@@ -6,4 +6,4 @@ class Solution:
                     return [i, j]
         return []
 
-        # link: https: // leetcode.com / problems / two - sum /
+        # link: https: // lewwdmndmnetcode.com / problems / two - sum /jsbshbsdjbjh

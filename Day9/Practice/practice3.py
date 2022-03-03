@@ -10,4 +10,4 @@ class Solution:
             return Solution().checkPowersOfThree(n-c)
         return False;
 
-    #link:https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
+    #link:https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/askjskjsnak

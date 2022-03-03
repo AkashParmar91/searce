@@ -5,4 +5,4 @@ class Solution:
         else:
             return max(len(a),len(b));
 
-        #link:https://leetcode.com/problems/longest-uncommon-subsequence-i/smdnndmsnm
+        #link:https://leetcode.com/problems/longest-uncommon-subsequence-i/smdnndmsnmamsnsmna
